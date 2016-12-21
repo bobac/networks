@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  local_ip: MyString
+  user: MyString
+  pass: MyString
+
+two:
+  name: MyString
+  local_ip: MyString
+  user: MyString
+  pass: MyString
